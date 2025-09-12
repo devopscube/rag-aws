@@ -1,5 +1,17 @@
 # AWS RAG Chatbot with Bedrock & S3 Vector Store
 
+<div align="center">
+  <img src="https://img.shields.io/github/stars/devopscube/rag-aws.svg?style=for-the-badge" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/devopscube/rag-aws.svg?style=for-the-badge" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/contributors/devopscube/rag-aws.svg?style=for-the-badge" alt="Contributors" />
+  <img src="https://img.shields.io/github/last-commit/devopscube/rag-aws.svg?style=for-the-badge" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/python-3..12.x-blue?style=for-the-badge" alt="Python Version" />
+</div>
+
+<hr />
+
+## Overview
+
 A production-ready Retrieval-Augmented Generation (RAG) chatbot leveraging AWS Bedrock for LLMs and Amazon S3 Vector as a scalable vector store. This project enables enterprise-grade, context-aware conversational AI over your private documents.
 
 ## Table of Contents
